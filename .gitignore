@@ -1,0 +1,15 @@
+node_modules/**/*
+.expo/*
+npm-debug.*
+*.jks
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+web-report/
+.npmrc
+yarn-error.log
+.idea/
+coverage/
+.vscode/
